@@ -1,0 +1,7 @@
+#Executables
+.exe
+*.ilk
+*.pdb
+
+#Vs path
+/TerrainGenerator/.vs/*
